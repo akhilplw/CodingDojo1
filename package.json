@@ -1,0 +1,13 @@
+{
+  "name": "coding-dojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CodingDojo1.js",
+  "scripts": {
+    "test": "node CodingDojo1",
+    "start": "node CodingDojo1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
